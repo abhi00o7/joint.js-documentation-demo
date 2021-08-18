@@ -85,6 +85,17 @@ code {
     border-radius: 5px;
 }
 
+code#wrapper{
+    top: 50%;
+    bottom: 50%;
+    left: 30%;
+    background: #f4f4f4;
+    padding: 2em;
+    /*   adding box shadow */
+    border-radius: 12px;
+    color: blueviolet;
+    box-shadow: 10px 10px 25px 1px black;
+}
 @media only screen and (max-width: 815px) {
 
     /* For mobile phones: */
